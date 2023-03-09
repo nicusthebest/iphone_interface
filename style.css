@@ -11,7 +11,6 @@ div.iphoneFrame{
     border-style: solid;
     border-color: rgb(68, 68, 68);
     border-width: 4px;    
-
 }
 
 div.screen{
@@ -31,6 +30,7 @@ div.edge{
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
 }
+
 div.home{  
     background-color: rgb(175, 175, 175);
     width: 150px;
@@ -49,7 +49,6 @@ div.time{
     font-weight: bold;
     margin-top: 10px;
     margin-left: 35px;
-
 }
 
 #time{
@@ -72,7 +71,6 @@ div.speaker{
     border-color: rgb(22, 22, 22);
     margin-top: 6px;
     margin-left: 55px;
-
 }
 
 div.cam{
@@ -86,6 +84,7 @@ div.cam{
     margin-top: 5px;
     margin-left: 130px;
 }
+
 .icons{
     position: absolute;
     margin-left: 180px;
@@ -103,15 +102,14 @@ div.game{
     margin-top: 7px;
     margin-left: 10px;
     margin-right: 0px;
-
 }
+
 h1{
     font-size: 25px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     margin-left: 20px;
 }
-
 div.picture{
     font-size: 50px;
     font-family: Arial, Helvetica, sans-serif;
@@ -170,6 +168,7 @@ a{
     color: rgb(227, 230, 228);
     text-decoration: none;
 }
+
 a.play{
     font-size: 20px;
 }
